@@ -5,6 +5,7 @@
 - 😄 Pronouns: He/Him/don't call me something weird
 
 
+# &#x1f4c8; My Github Stats
 <p align="center">
     <a href="https://github.com/Zerosrs"><img align="center" src="github-metrics.svg" /></a>
 </p>
