@@ -7,7 +7,6 @@
 
 ---
 
-## 🔥 GitHub Stats
 
 ### 📊 Overview
 ![Streak](https://streak-stats.demolab.com/?user=Zerosrs&theme=dark)
