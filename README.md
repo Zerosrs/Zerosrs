@@ -10,10 +10,7 @@
 ## 🔥 GitHub Stats
 
 ### 📊 Overview
-:contentReference[oaicite:0]{index=0}
-
-### 🔥 Streak
-:contentReference[oaicite:1]{index=1}
+![Streak](https://streak-stats.demolab.com/?user=Zerosrs&theme=dark)
 
 ---
 
