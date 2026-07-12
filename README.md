@@ -9,7 +9,7 @@
 
 
 ### 📊 Overview
-[![Streak](https://streak-stats.demolab.com/?user=Zerosrs&theme=dark)]
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Zerosrs&layout=compact&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Zerosrs&layout=compact&langs_count=4&theme=dark)
 
 ---
 
