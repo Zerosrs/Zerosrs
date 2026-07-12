@@ -9,7 +9,7 @@
 
 
 ### 📊 Overview
-[![Streak](https://streak-stats.demolab.com/?user=Zerosrs&theme=dark)
+[![Streak](https://streak-stats.demolab.com/?user=Zerosrs&theme=dark)]
 
 ---
 
